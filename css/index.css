@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+.top-nav{
+    background-color: rgb(231, 231, 231);
+    position: relative;
+    box-shadow: 8px 5px 20px -5px;
+    height: 100px;
+    width: auto;
+}
+.logo{
+    width: 100px;
+    height: 100px;
+}
+.name{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+    margin: 23px 0px 0px 20px;
+}

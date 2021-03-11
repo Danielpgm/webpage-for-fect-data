@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "Jakson",
+        "divisi": "Backend",
+        "salary": "9.000.000"
+    },
+    {
+        "nama": "Rino",
+        "divisi": "Frontend",
+        "salary": "15.000.000"
+    },
+    {
+        "nama": "Alvian",   
+        "divisi": "Backend",
+        "salary": "12.000.000"
+    },
+    {
+        "nama": "Guruh",
+        "divisi": "Backend",
+        "salary": "8.000.000"
+    },
+    {
+        "nama": "Ghassan",
+        "divisi": "frontend",
+        "salary": "7.000.000"
+    }
+]
