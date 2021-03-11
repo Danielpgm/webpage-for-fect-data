@@ -1,27 +1,27 @@
 [
     {
-        "nama": "Jakson",
-        "divisi": "Backend",
-        "salary": "9.000.000"
-    },
-    {
-        "nama": "Rino",
-        "divisi": "Frontend",
-        "salary": "15.000.000"
-    },
-    {
-        "nama": "Alvian",   
-        "divisi": "Backend",
-        "salary": "12.000.000"
-    },
-    {
-        "nama": "Guruh",
-        "divisi": "Backend",
+        "nama": "Rama",
+        "bagian": "Pit bull Trainer",
         "salary": "8.000.000"
     },
     {
+        "nama": "Rino",
+        "bagian": "Doberman trainer",
+        "salary": "10.000.000"
+    },
+    {
+        "nama": "Alvian",   
+        "bagian": "Husky trainer",
+        "salary": "8.000.000"
+    },
+    {
+        "nama": "Guruh",
+        "bagian": "Dokter hewan",
+        "salary": "12.000.000"
+    },
+    {
         "nama": "Ghassan",
-        "divisi": "frontend",
-        "salary": "7.000.000"
+        "bagian": "Golden retriever trainer",
+        "salary": "10.000.000"
     }
 ]

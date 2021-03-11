@@ -1,12 +1,21 @@
 *{
     margin: 0;
 }
+.header-contain{
+    width: auto;
+    height: 150px;
+}
 .top-nav{
-    background-color: rgb(231, 231, 231);
+    background-color: rgb(245, 245, 245);
     position: relative;
-    box-shadow: 8px 5px 20px -5px;
+    box-shadow: 5px 5px 6px 0px;
     height: 100px;
     width: auto;
+}
+.tombol-nav{
+    width: 120px;
+    height: 30px;
+    margin-top: 23px;
 }
 .logo{
     width: 100px;
