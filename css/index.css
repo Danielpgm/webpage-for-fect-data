@@ -15,7 +15,9 @@
 .tombol-nav{
     width: 120px;
     height: 30px;
-    margin-top: 23px;
+    position: absolute;
+    top: 30px;
+    right: 20px;
 }
 .logo{
     width: 100px;
