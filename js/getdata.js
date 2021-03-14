@@ -26,13 +26,13 @@ function data(userdata){
                 <td>
                     <div class="row">
                         <div class="col-6">
-                            <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#hapus-data">
+                            <button type="button" class="btn gambar" data-bs-toggle="modal" data-bs-target="#hapus-data">
                                 <img src="assets/trash.png" >
                             </button>
                         </div>
                         <div class="col-6">
-                            <button type="button" class="btn" data-bs-toggle="modal" data-bs-target="#edit-data">
-                                <img src="assets/edit.png" >
+                            <button type="button" class="btn gambar" data-bs-toggle="modal" data-bs-target="#edit-data">
+                                <img src="assets/pencil.png" >
                             </button>
                         </div>
                     </div>

@@ -7,17 +7,12 @@
 }
 .top-nav{
     background-color: rgb(245, 245, 245);
-    position: relative;
     box-shadow: 5px 5px 6px 0px;
     height: 100px;
-    width: auto;
 }
-.tombol-nav{
-    width: 120px;
-    height: 30px;
-    position: absolute;
-    top: 30px;
-    right: 20px;
+.gambar{
+    height: 50px;
+    width: 50px;
 }
 .logo{
     width: 100px;
